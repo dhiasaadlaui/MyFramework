@@ -1,0 +1,5 @@
+com\ioc\framework\utils\InjectionUtil.class
+com\ioc\framework\core\annotations\Component.class
+com\ioc\framework\core\MyFrameworkApplication.class
+com\ioc\framework\core\annotations\Autowired.class
+com\ioc\framework\core\annotations\Qualifier.class
